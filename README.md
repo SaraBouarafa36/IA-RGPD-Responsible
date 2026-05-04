@@ -2,10 +2,7 @@
 
 
 
-Application web de gestion de données conforme au RGPD,
-
-développée dans le cadre du cours Éthique et Droit Numérique — ENSA Béni Mellal.
-
+Déploiement d’un système d’IA interne et conforme au RGPD 
 
 
 \## Fonctionnalités
