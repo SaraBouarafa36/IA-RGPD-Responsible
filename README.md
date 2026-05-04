@@ -1,11 +1,11 @@
-\# Système IA Responsable et Conforme au RGPD
+# Système IA Responsable et Conforme au RGPD
 
 
 
 Déploiement d’un système d’IA interne et conforme au RGPD 
 
 
-\## Fonctionnalités
+## Fonctionnalités
 
 \- Gestion des consentements utilisateurs
 
@@ -15,7 +15,7 @@ Déploiement d’un système d’IA interne et conforme au RGPD
 
 
 
-\## Technologies
+## Technologies
 
 Python, Flask, SQLite
 
