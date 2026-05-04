@@ -21,7 +21,7 @@ Python, Flask, SQLite
 
 
 
-\## Lancer l'application
+## Lancer l'application
 
 ```bash
 
